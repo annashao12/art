@@ -2,15 +2,19 @@ project:
   type: website
 
 website:
-  title: ""
+  title: "Anna Shao"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - text: Years
+      - text: Year
         menu:
-          - href: 20.qmd
-            text: '2020'
+          - href: 22.qmd
+            text: '~22'
+          - href: 2223.qmd
+            text: '22-23'
+          - href: 24.qmd
+            text: '24~'
       - href: about.qmd
         text: About
 
@@ -19,6 +23,3 @@ format:
     theme: lux
     css: styles.css
     toc: true
-
-
-

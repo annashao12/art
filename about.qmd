@@ -1,5 +1,10 @@
 ---
-title: "About"
+title: "About Me"
+format: html
 ---
 
-About this site
+I'm Anna Shao.
+
+I enjoy having fun with 2D visual art and journaling. I find that visual art tends to be a pretty inaccessible art form compared to say, music or film, so I'm challenging myself to incorporate more visual art into my life.
+
+Beyond doing art, I am a college student (as of 2024) who is actively exploring biology, computer science, and other random interests.

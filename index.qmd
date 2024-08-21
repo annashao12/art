@@ -1,5 +1,13 @@
 ---
-title: "home"
 format: html
 ---
 
+# Hi there!
+
+Welcome to Anna Shao's personal website and ongoing experiment.
+
+This website is used to document my very regular life.
+
+> To be clear: regular =/= bad
+
+I think there is comfort in the idea of normal. Comfort isn't my goal, but balance in life is.
