@@ -7,7 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: Years
+        menu:
+          - href: 20.qmd
+            text: '2020'
+      - href: about.qmd
+        text: About
 
 format:
   html:
