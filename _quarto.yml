@@ -3,18 +3,20 @@ project:
 
 website:
   title: "Anna Shao"
+  favicon: "images/cookie.png"
   navbar:
+    logo: "images/cookie.png"
     left:
       - href: index.qmd
         text: Home
       - text: Year
         menu:
-          - href: 22.qmd
-            text: '~22'
-          - href: 2223.qmd
-            text: '22-23'
           - href: 24.qmd
             text: '24~'
+          - href: 2223.qmd
+            text: '22-23'
+          - href: 22.qmd
+            text: '~22'
       - href: about.qmd
         text: About
 

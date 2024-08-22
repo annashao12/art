@@ -6,7 +6,7 @@ format: html
 
 Welcome to Anna Shao's personal website and ongoing experiment.
 
-This website is used to document my very regular life.
+This website is used to document my very regular life through art and writing.
 
 > To be clear: regular =/= bad
 

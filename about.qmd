@@ -1,10 +1,23 @@
 ---
-title: "About Me"
 format: html
 ---
 
-I'm Anna Shao.
+# About
 
-I enjoy having fun with 2D visual art and journaling. I find that visual art tends to be a pretty inaccessible art form compared to say, music or film, so I'm challenging myself to incorporate more visual art into my life.
+My name is Anna Shao (or 'anna banana' as some friends like to say it :)
 
-Beyond doing art, I am a college student (as of 2024) who is actively exploring biology, computer science, and other random interests.
+I'm just having some fun with 2D visual art and journaling. I find that visual art tends to be a pretty inaccessible art form comparatively, so I'm challenging myself to incorporate more visual art into my life.
+
+While doing art, I also happen to be a college student (as of 2024). I'm actively exploring biology, computer science, and other random interests.
+
+# Contact Me
+
+[Instagram](https://www.instagram.com/annashao_art/): @annashao_art
+
+[Email](https://mail.google.com/mail/?view=cm&fs=1&to=annashaoart@gmail.com): annashaoart \[at\] gmail \[dot\] com
+
+# Sources
+
+Because this is a casual website, not all references may be explicitly cited. However, most of my references come from life and pictures I take.
+
+To see how this website was made, check out my [GitHub](https://github.com/annashao12/art).
